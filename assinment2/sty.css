@@ -1,0 +1,122 @@
+header{
+ padding: 16px 78px;
+   background-color:#fff;
+}
+body{
+   margin:0 5px 0 5px;
+   background-color: #e2f5f9;
+   scroll-behavior: smooth; 
+}
+.Edyoda{
+    width: 130px;
+    font-size: 32px;
+    color: #0084ff;
+    font-weight: bolder;
+}
+.stories{
+   margin: 0;
+   font-weight: 500;
+   font-style: italic;
+}
+.Explorecategories{
+   margin-left: 15%;
+   color: #000;
+}
+h1{
+   padding-top: 16px;
+   padding-left: 15%; 
+   color: #000; 
+   font-weight: 600;
+   margin: 0;
+}
+h5{
+   font-size: 14px;
+   font-weight: 600;
+   margin-left: 8px; 
+   padding-left: 17%;
+   margin-bottom: 0%; 
+}
+.b{
+   justify-items: center;
+   padding-left: 17%;
+   margin-top: 0%;
+   padding-right: 17%;
+   margin-bottom: 20px;
+   font-size: 16px;
+
+}
+button{
+   padding: 6px 14px;
+   width: auto;
+   color: #0084ff;
+   border-radius: 15px;
+   border: 1px solid #0084ff;
+   margin: 5px;
+   cursor: pointer;
+   background-color: #fff;
+}
+button:hover {
+   color:#fff;
+   background-color: #0084ff;
+}
+.main{
+   padding-left: 18%;
+   padding-right: 17%;
+ 
+   
+}
+
+
+.cards {
+   width: 30%;
+   box-shadow: 2px 2px 5px;
+   margin-right: 18px;
+   margin-bottom: 20px;
+   display:inline-block;
+   flex-direction: column;
+   justify-content: space-between;
+   cursor:pointer;
+   margin-top: 30px; 
+   background-color: #fff;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+      
+    
+}
+.image img{
+   width:100%;
+   height:100%;
+   border-top-left-radius:5px;
+   border-top-right-radius:5px;
+ }
+.title{
+      padding-left: 10px;
+      font-size: 14px;
+      text-align: left;
+      margin: 0;
+      font-weight: 600;
+}
+a{
+   color: #0096ff;
+   font-size: 14px;
+   font-style: italic;
+   font-weight: 500;
+   text-align: left;
+   padding-left: 10px;
+   padding-top: 4px;
+}
+.content{
+   width: 100%;
+  height: 100%;
+  font-size: 14px;
+  padding: 1px 0px 0px 10px;
+  font-weight: 400;
+  line-height: 1.43;
+  color: rgba(0,0,0,.6);
+ overflow-wrap: normal;
+
+}
+footer{
+   background-color: #172146;
+   padding: 18px 16%;
+}
